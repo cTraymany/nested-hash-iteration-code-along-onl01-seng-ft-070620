@@ -17,5 +17,4 @@ require 'pry'
 def remove_strawberry(contacts)
   contacts
     binding.pry
-  end
 end
