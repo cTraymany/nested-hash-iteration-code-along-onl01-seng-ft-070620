@@ -15,9 +15,6 @@ require 'pry'
   # }
   
 def remove_strawberry(contacts)
-  contacts.map do |person, data|
-    if data == favorite_ice_cream_flavors
-      
-    end
-  end
+
+
 end
